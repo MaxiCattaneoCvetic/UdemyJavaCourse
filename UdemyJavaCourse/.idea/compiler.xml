@@ -9,5 +9,8 @@
         <module name="UdemyJavaCourse" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="userRegisterService" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

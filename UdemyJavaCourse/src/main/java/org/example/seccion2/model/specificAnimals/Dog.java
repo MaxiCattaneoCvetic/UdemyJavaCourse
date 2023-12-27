@@ -1,9 +1,11 @@
-package org.example.seccion2.model;
+package org.example.seccion2.model.specificAnimals;
+
+import org.example.seccion2.model.Pet;
 
 import java.time.LocalDate;
 
 //heredamos los atributos de PET
-public class Dog extends Pet{
+public class Dog extends Pet {
 
 
     public Dog(String name, LocalDate dob) {

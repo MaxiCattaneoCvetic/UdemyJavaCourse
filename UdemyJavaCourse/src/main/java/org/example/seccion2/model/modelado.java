@@ -1,5 +1,7 @@
 package org.example.seccion2.model;
 
+import org.example.seccion2.model.specificAnimals.Dog;
+
 import java.time.LocalDate;
 
 public class modelado {
